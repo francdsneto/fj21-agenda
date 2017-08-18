@@ -1,0 +1,26 @@
+html {
+	font-family: cursive;
+}
+
+table {
+}
+
+tbody {
+}
+
+th {
+	min-width:150px;
+}
+
+td {
+	min-width: 150px;
+	padding: 5px;
+}
+
+.odd {
+	background-color: silver;
+}
+
+.even {
+	background-color: gray;
+}
