@@ -8,11 +8,11 @@ table {
 tbody {
 }
 
-th {
+table:not(.ui-datepicker-calendar) th {
 	min-width:150px;
 }
 
-td {
+table:not(.ui-datepicker-calendar) td {
 	min-width: 150px;
 	padding: 5px;
 }
